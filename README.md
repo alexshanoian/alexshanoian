@@ -1,4 +1,4 @@
-### Alex Shanoian's Cyber Project Portfolio
+### Cybersecurity Project Portfolio
 
 
 ⚠️ Vulnerability Management Projects
