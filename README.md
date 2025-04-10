@@ -1,7 +1,7 @@
 ### Cybersecurity Project Portfolio
 
 
-⚠️ Vulnerability Management Projects
+⚠️ Vulnerability Management
 - **[Vulnerability Management Program Implementation](https://github.com/alexshanoian/vulnerability-management-program)**
 <!-- - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/alexshanoian/programmatic-vulnerability-remediations)**
 -->
