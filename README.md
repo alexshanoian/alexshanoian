@@ -9,7 +9,7 @@
 🏹 Threat Hunting
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/alexshanoian/threat-hunting-scenario-tor)**
 
-💻 etc.
+💻 Tools
 - **[Python Web Scraping Paper Parser](https://github.com/alexshanoian/PaperScraper)**
  
 <!--
