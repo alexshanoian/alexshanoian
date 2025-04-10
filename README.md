@@ -6,7 +6,7 @@
 <!-- - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/alexshanoian/programmatic-vulnerability-remediations)**
 -->
 
-🏹 Threat Hunting and Security Operations 🎯
+🏹 Threat Hunting and Security Ops 🎯
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/alexshanoian/threat-hunting-scenario-tor)**
 
 💻 Tools
