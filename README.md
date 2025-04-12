@@ -1,4 +1,4 @@
-### Cybersecurity Project Portfolio
+## Cybersecurity Project Portfolio
 
 
 ⚠️ Vulnerability Management
@@ -6,10 +6,10 @@
 <!-- - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/alexshanoian/programmatic-vulnerability-remediations)**
 -->
 
-🏹 Threat Hunting
+🏹🎯 Threat Hunting
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/alexshanoian/threat-hunting-scenario-tor)**
 
-💻 Tools
+⚙️ Tools
 - **[Python Web Scraping Paper Parser](https://github.com/alexshanoian/PaperScraper)**
  
 <!--
