@@ -1,8 +1,8 @@
 # IT / Cybersecurity Projects
 
-⚠️ Vulnerability Management
+<!--⚠️ Vulnerability Management
 - **[Vulnerability Management Program Implementation](https://github.com/alexshanoian/vulnerability-management-program)**
-
+-->
 🏹 Threat Hunting 🎯
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/alexshanoian/tor_threat_hunting)**
 
