@@ -1,4 +1,4 @@
-# IT / Cybersecurity Projects
+# Cybersecurity Projects
 
 ⚠️ Vulnerability Management
 - **[Vulnerability Management Program Implementation](https://github.com/alexshanoian/Vulnerability-Management-Program)**
