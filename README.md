@@ -1,4 +1,4 @@
-# Cybersecurity Projects
+# Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/alexshanoian/Vulnerability-Management-Program)**
 
